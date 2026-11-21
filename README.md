@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Terminal-Multiplexing-AI-Workspaces/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Terminal-Multiplexing-AI-Workspaces?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Terminal-Multiplexing-AI-Workspaces/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Terminal-Multiplexing-AI-Workspaces?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Terminal-Multiplexing-AI-Workspaces/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Terminal-Multiplexing-AI-Workspaces?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Terminal-Multiplexing-AI-Workspaces/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Terminal-Multiplexing-AI-Workspaces?style=flat-square" alt="Open Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Terminal-Multiplexing-AI-Workspaces/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Terminal-Multiplexing-AI-Workspaces?style=flat-square" alt="License"/></a>
@@ -63,7 +63,7 @@ The following table benchmarks commercial and managed terminal platforms, agenti
 
 The following table indexes leading open-source terminal multiplexers, agent-aware terminal workspaces, and GPU split terminals. Repositories are ranked in **descending order by GitHub Stargazer Count**.
 
-| Project | Stars | Focus & Core Architecture | Key Features |
+| Project | GitHub_Stars | Focus & Core Architecture | Key Features |
 | :--- | :--- | :--- | :--- |
 | **[Alacritty](https://github.com/alacritty/alacritty)** | [![Stars](https://img.shields.io/github/stars/alacritty/alacritty?style=social&color=white)](https://github.com/alacritty/alacritty/stargazers) | GPU OpenGL Terminal | Minimalist, ultra-fast OpenGL terminal emulator written in Rust; the industry-standard lightweight rendering layer for multiplexed `tmux` and `Zellij` setups. |
 | **[Ghostty](https://github.com/ghostty-org/ghostty)** | [![Stars](https://img.shields.io/github/stars/ghostty-org/ghostty?style=social&color=white)](https://github.com/ghostty-org/ghostty/stargazers) | Zig GPU Workspace Terminal | Blazing-fast, native GPU-accelerated terminal emulator written in Zig featuring native split panes, multi-tabs, and embedded `libghostty` architecture. |
